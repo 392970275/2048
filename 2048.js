@@ -33,7 +33,6 @@ function start()
 				debugger;
 				break;
 			case 39:
-				//debugger;
 				moveRight();
 				break;
 			case 40:
