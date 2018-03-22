@@ -3,7 +3,7 @@ var data;//定义变量data保存二维数组
 var score=0;//保存得分
 var status=0;
 const GAMEOVER=0,RUNNING=1;//保存游戏状态
-
+ 
 function start() 
 {
 	status=RUNNING;
